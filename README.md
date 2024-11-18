@@ -1,4 +1,4 @@
-![Masterhead](../src/banner.webp)
+![Masterhead](./banner.webp)
 <h1 align="center">Hi 👋, I'm Ismael Rodriguez</h1>
 <h3 align="center">A Full Stack developer in the making</h3>
 
